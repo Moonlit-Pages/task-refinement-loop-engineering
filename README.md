@@ -1,6 +1,6 @@
 # OpenClaw Task Refinement Loop Engineering Skill
 
-![Loop Engineering Workflow](assets/loop-engineering-workflow.svg)
+![Loop Engineering Workflow](assets/loop-engineering-workflow.png)
 
 **Task Refinement Loop Engineering** is a general-purpose OpenClaw skill that turns vague, broad, or complex user requests into clear, phased, verifiable, and auditable execution plans.
 
