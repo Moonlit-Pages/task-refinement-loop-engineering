@@ -8,7 +8,7 @@ It is designed for AI agents that should not simply answer a vague prompt immedi
 
 ## SEO Keywords
 
-OpenClaw skill, Hermes Agent Skill, loop engineering, task refinement loop, AI agent workflow, agent planning skill, prompt refinement, self-verifying AI agent, AI task decomposition, multi-agent workflow, autonomous agent audit loop, AI workflow automation, clarify execute verify audit, AI agent quality gates.
+OpenClaw skill, Hermes Agent skill, loop engineering, task refinement loop, AI agent workflow, agent planning skill, prompt refinement, self-verifying AI agent, AI task decomposition, multi-agent workflow, autonomous agent audit loop, AI workflow automation, clarify execute verify audit, AI agent quality gates.
 
 ## Why This Skill Exists
 
