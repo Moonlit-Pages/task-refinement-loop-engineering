@@ -2,7 +2,7 @@
 
 ![Loop Engineering Workflow](assets/loop-engineering-workflow.png)
 
-**Task Refinement Loop Engineering** is a general-purpose OpenClaw skill that turns vague, broad, or complex user requests into clear, phased, verifiable, and auditable execution plans.
+**Task Refinement Loop Engineering** is a general-purpose OpenClaw & Hermes-Agent skill that turns vague, broad, or complex user requests into clear, phased, verifiable, and auditable execution plans.
 
 It is designed for AI agents that should not simply answer a vague prompt immediately. Instead, the agent clarifies the task, defines the objective, breaks the work into phases, executes each phase, verifies the result, audits for risks, revises weak outputs, and only then finalizes the deliverable.
 
